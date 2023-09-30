@@ -1,0 +1,9 @@
+a = 10
+b = 3
+print("a+b=",a+b)   # 13    加法
+print("a-b=",a-b)   # 7    减法
+print("a*b=",a*b)   # 30    乘法
+print("a/b=",a/b)   # 3.3333333333333335    除法
+print("a//b=",a//b)     # 3 取整
+print("a%b=",a%b)       # 1 取余
+print("a**b=",a**b)    # 1000   a的b次方
